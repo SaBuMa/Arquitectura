@@ -9,7 +9,7 @@ El siguiente documento es la combinación y unión de las materias vistas durant
 
 ## Logo del Portafolio
 <p align="center">
-<img src="Git_Images/Logo_Portafolio.png" alt="Logo_Portafolio" width="200" />  
+<img src="Git_Images/Logo_min.png" alt="Logo_min" width="200" />  
 </p>
 
 Los colores usados en el logo del documento se
