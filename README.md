@@ -22,7 +22,7 @@ __Verde__: La naturaleza, la calma, la juventud.
 
 ## Índice
 <p align="center">
-<img src="Git_Images/Indice.png" alt="Aerasense_dashboard" width="380"/>  
+<img src="Git_Images/Indice.png" alt="Aerasense_dashboard" width="800"/>  
 </p>
 
 ## Proyecto I
@@ -32,19 +32,19 @@ Ahora, haciendo uso de estos conceptos comencé mi primer acercamiento al mundo 
 
 Posterior a las formas básicas creadas proseguí con la creación de diversas __maquetas__ la cuales estaban enfocadas a buscar una __forma de hábitat__, una vivienda, la cual para efectos del curso era bastante libre en cuanto a requisitos, eran maquetas en las cuales podía dejar libre mi imaginación.
 <p align="center">
-<img src="Git_Images/Bitacora.png" alt="Bitacora" width="380"/>
+<img src="Git_Images/Proyecto I.png" alt="Proyecto I" width="380"/>
 </p>
 
 Llegada la mitad del curso, se propuso el proyecto de __“Laboratorio Espacial”__, el cual estaba enfocado en la creación y construcción de un objeto/estructura que era diseñada en conjunto por dos cursos y que el diseño era una competencia entre los mismo estudiantes de los cursos. Luego de varias propuestas se optó por la construcción de varios módulos usando como material base la guadua. Gracias a este proyecto, pude tener mi primer contacto con el mundo de la arquitectura y lo que implica la creación de ideas así como luchar por defenderlas.
 
 <p align="center">
-<img src="Git_Images/Bitacora2.png" alt="Bitacora2" width="380"/>
+<img src="Git_Images/Proyecto I2.png" alt="Proyecto I2" width="380"/>
 </p>
 
 Por último, para completar la experiencia de Proyecto 1, el __Proyecto Final__ se centró en la intervención de un espacio o zona del centro de la ciudad de Bogotá, la cual en grupos debíamos intervenir y proponer una reforma del lugar para asi tratar mejorar tanto el espacio así como de dejar nuestra huella en el lugar.
 
 <p align="center">
-<img src="Git_Images/Bitacora3.png" alt="Bitacora3" width="380"/>
+<img src="Git_Images/Proyecto I3.png" alt="Proyecto I3" width="380"/>
 </p>
 
 ## Proyecto III
@@ -53,19 +53,19 @@ Para la materia de Proyecto 3, se llega ahora a la unión de los conceptos traba
 En primera instancia, tuve el __Proyecto de intervenir en el parque de la independencia__, al cual se realizaron diversas visitas para así comprender y estudiar el entorno y las variables que pueden usarse para así crear el mejor proyecto posible en este sector de Bogotá.
 
 <p align="center">
-<img src="Git_Images/Bitacora5.png" alt="Bitacora4" width="380"/>  
+<img src="Git_Images/Proyecto III2.png" alt="Proyecto III2" width="380"/>  
 </p>
 
 Posteriormente, se realizaron diversos estudios para comprender cómo ha sido el manejo del espacio público en diversas ciudades alrededor del mundo, y en particular el parque y la obra arquitectónica que me tocaron fue el __Parque de la Villette en parís, y el Guggenheim en Nueva York__, siendo el primero un gran exponente de cómo la intervención del espacio público y en especial de la creación de parque influye en todas las personas que lo visitan así como aquellas que viven en sus alrededores, y el segundo siendo uno de los mayores exponentes del manejo del espacio interior.
 
 <p align="center">
-<img src="Git_Images/Bitacora4.png" alt="Bitacora5" width="380"/>  
+<img src="Git_Images/Proyecto III.png" alt="Proyecto III" width="380"/>  
 </p>
 
 Por último, como __Proyecto Final__, se propuso de forma grupal la intervención de las zonas aledañas al río arzobispo, comenzando desde la carrera 7ma hasta la calle 45 con diagonal 42ª - Teusaquillo. Partiendo de esta delimitación escogí una zona en especial para intervenir en la cual diseñe y cree mi proyecto de __Galería/Biblioteca__ unida a comercio, siendo estas tres actividades el foco de mis ideas y diseño final.
 
 <p align="center">
-<img src="Git_Images/Bitacora6.png" alt="Bitacora6" width="380"/>  
+<img src="Git_Images/Proyecto III3.png" alt="Proyecto III3" width="380"/>  
 </p>
 
 ## LINK DEL PORTAFOLIO
